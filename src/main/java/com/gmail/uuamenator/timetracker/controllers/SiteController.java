@@ -11,6 +11,6 @@ public class SiteController {
     @GetMapping("")
     @ResponseBody
     public String home(){
-        return "Hasta La Vista";
+        return "Hasta La Vista, baby";
     }
 }
